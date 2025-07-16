@@ -5,6 +5,7 @@ export default function Home() {
     <h1>
       hey i am aslah
       hello rinsha aaa
+      hello shahuu
     </h1>
   );
 }
